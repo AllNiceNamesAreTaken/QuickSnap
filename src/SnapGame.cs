@@ -9,7 +9,7 @@ namespace CardGames
         public static void LoadResources()
         {
             Bitmap cards;
-            cards = SwinGame.LoadBitmapNamed ("Cards", "Cards.png");
+            cards = SwinGame.LoadBitmapNamed ("Cards", "123456.png");
 
 			SwinGame.LoadSoundEffectNamed ("Slap", "slap.wav");
 			SwinGame.LoadSoundEffectNamed ("Bo","bo.wav");
